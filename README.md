@@ -75,6 +75,9 @@ Launch Jupyter Notebook:
 ```bash
 jupyter notebook
 ```
+```
+I am using Jupyter Notebook in VS Code. Earlier I was using Google Colab. The Advantage of google colab is there we don't  need to install separately everything is available to import directly also we get a more powerful kernel than our usual local machine. But I have used colab for quite some time and now i wanted to shift to vs code. (This might get tricky and time consuming some times in setting up the environment.)
+```
 
 Open any notebook under the `notebooks` directory to explore the content.
 
